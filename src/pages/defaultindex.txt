@@ -1,0 +1,16 @@
+import * as React from "react"
+
+import HomeLayout from '../components/HomeLayout/HomeLayout'
+
+
+// markup
+const IndexPage = () => {
+  return (
+    <main>
+
+
+    </main>
+  )
+}
+
+export default IndexPage
